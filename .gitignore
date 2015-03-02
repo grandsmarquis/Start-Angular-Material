@@ -26,3 +26,11 @@ node_modules
 
 # Users Environment Variables
 .lock-wscript
+
+!.gitkeep
+app/bower_components/
+tmp
+.DS_Store
+.idea
+
+*~
